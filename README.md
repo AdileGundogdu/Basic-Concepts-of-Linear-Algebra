@@ -35,3 +35,6 @@ It presents theoretical concepts, mathematical expressions, and real-world appli
 
 
 This repository also includes 2 case studies, as well as basic linear algebra applications and a PCA (Principal Component Analysis) example.
+
+
+Many thanks to Miuul. 
